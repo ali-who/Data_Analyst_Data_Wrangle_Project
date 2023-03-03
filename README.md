@@ -29,3 +29,5 @@ Step 3: Cleaning data
 Step 4: Storing data
 
 Step 5: Analyzing, and visualizing data
+
+This project was completed on: 26/01/23
